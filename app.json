@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ReducedMotionRepro",
+    "slug": "reanimated-reduced-motion-repro",
+    "version": "1.0.0",
+    "newArchEnabled": true,
+    "android": { "package": "com.example.reducedmotionrepro" },
+    "ios": { "bundleIdentifier": "com.example.reducedmotionrepro" }
+  }
+}
